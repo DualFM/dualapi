@@ -1,6 +1,6 @@
 {
   "name": "@DualFM/dualapi",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "API wrapper for Dual.pw",
   "main": "index.js",
   "publishConfig": { "registry": "https://npm.pkg.github.com/DualFM" },
